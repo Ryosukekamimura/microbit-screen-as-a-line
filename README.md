@@ -9,7 +9,7 @@
 Use the ``plotAt`` block to render LEDs at a index location.
 
 ```blocks
-for (let i = 0; i < 25; ++i){
+for(let i = 0; i < 25; ++i) {
     screenMagic.plotAt(i)
     basic.pause(100)
 }
