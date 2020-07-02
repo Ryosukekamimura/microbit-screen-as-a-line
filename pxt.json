@@ -9,7 +9,8 @@
     "files": [
         "main.ts",
         "README.md",
-        "main.py"
+        "main.py",
+        "_locales/ja-JP/README.md"
     ],
     "testFiles": [
         "test.ts"
